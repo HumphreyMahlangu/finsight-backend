@@ -31,3 +31,20 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Environment
+.env
+*.env
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docker volumes (local)
+mysql_data/
+qdrant_data/
+minio_data/
