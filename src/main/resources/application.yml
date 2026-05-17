@@ -51,7 +51,7 @@ qdrant:
 
 langchain4j:
   open-ai:
-    api-key: ${OPENAI_API_KEY}
+    api-key: ${your-openai-key-here}
     chat-model:
       model-name: gpt-4o-mini
       temperature: 0.0
